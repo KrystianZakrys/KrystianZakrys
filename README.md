@@ -106,14 +106,10 @@
 
 ###
 
-<div align="center">
- ![](https://github-readme-stats.vercel.app/api?username=KrystianZakrys&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=KrystianZakrys&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KrystianZakrys&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystianZakrys&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KrystianZakrys&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
