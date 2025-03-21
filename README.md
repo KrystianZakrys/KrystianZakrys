@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning .NET always and everywhere ;), NEXT.js, Express.js<br><br>📝 I regularly write articles on https://krystianzakrys.hashnode.dev/<br><br>💬 Ask me about .NET, Angular<br><br>📫 How to reach me krystian.zakrys@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1Kdf9zg0cU07jlYcpGHmRv3PiHSEq_RE-/view?usp=sharing<br><br>⚡ Fun fact I like Warhammer 40k... for the Emperor! Im part time game developer ;)</p>
+<p align="left">🌱 I’m currently learning .NET always and everywhere ;), NEXT.js, Express.js<br><br>📝 I regularly write articles on https://krystianzakrys.hashnode.dev/<br><br>💬 Ask me about .NET, Angular<br><br>📫 How to reach me krystian.zakrys@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/0B5LEkjC_NdcxOHRpUUFVYlNLUXc/view?usp=sharing&resourcekey=0-yNjPIjix0M8RLBWaIk8g1Q<br><br>⚡ Fun fact I like Warhammer 40k... for the Emperor! Im part time game developer ;)</p>
 
 ###
 
